@@ -1,0 +1,5 @@
+{"question": "How many days of annual leave do I get?", "expected_docs": ["leave"]}
+{"question": "Can I carry over unused leave?", "expected_docs": ["leave"]}
+{"question": "Do I need a receipt for a twenty dollar expense?", "expected_docs": ["expenses"]}
+{"question": "How quickly must I report a lost laptop?", "expected_docs": ["security"]}
+{"question": "What is the policy on cryptocurrency staking?", "expected_docs": []}

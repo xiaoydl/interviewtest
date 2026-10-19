@@ -1,0 +1,16 @@
+{
+  "name": "policy-assistant",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Internal policy question answering over a document corpus, with citations.",
+  "type": "module",
+  "engines": { "node": ">=22.6" },
+  "scripts": {
+    "start": "node src/server.ts",
+    "ask": "node src/cli.ts",
+    "test": "node --test",
+    "eval": "python eval/evaluate.py --predictions eval/predictions.example.json"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# Keep these byte-exact regardless of platform.
+*.png binary
+*.pdf binary

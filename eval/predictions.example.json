@@ -1,0 +1,27 @@
+{
+  "How many days of annual leave do I get?": {
+    "answer": "You get twenty days of annual leave per year, accrued monthly [Leave policy].",
+    "citations": [{"docId": "leave", "title": "Leave policy", "chunkIndex": 0}],
+    "context": "Everyone gets twenty days of annual leave per year, accrued monthly."
+  },
+  "Can I carry over unused leave?": {
+    "answer": "Yes, unused leave carries over for three months and then expires. More than five days needs manager approval [Leave policy].",
+    "citations": [{"docId": "leave", "title": "Leave policy", "chunkIndex": 0}],
+    "context": "Unused leave carries over for three months and then expires. Carry-over above five days needs approval from your manager."
+  },
+  "Do I need a receipt for a twenty dollar expense?": {
+    "answer": "Receipts are required for anything above twenty dollars; below that a card statement line is enough [Expenses policy].",
+    "citations": [{"docId": "expenses", "title": "Expenses policy", "chunkIndex": 0}],
+    "context": "Receipts are required for anything above twenty dollars. Below that, a line in the monthly card statement is enough."
+  },
+  "How quickly must I report a lost laptop?": {
+    "answer": "Within one hour, to the security team and your manager. After one hour it is treated as a data breach [Security policy].",
+    "citations": [{"docId": "security", "title": "Security policy", "chunkIndex": 0}],
+    "context": "A lost or stolen device must be reported within one hour, to the security team and to your manager. After one hour the incident is treated as a data breach."
+  },
+  "What is the policy on cryptocurrency staking?": {
+    "answer": "I could not find anything in the policy set that covers that.",
+    "citations": [],
+    "context": ""
+  }
+}
